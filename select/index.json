@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "REAL×EYEZ（『仮面ライダーゼロワン』主題歌）",
+  "base_artist": "J×Takanori Nishikawa",
+  "createdAt": "2026-01-09T07:46:51.153580Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REAL×EYEZ",
+      "artist": "J×Takanori Nishikawa",
+      "has_synced": false,
+      "path": "select/pl_01_REAL×EYEZ_J×Takanori_Nishikawa.txt"
+    }
+  ]
+}
